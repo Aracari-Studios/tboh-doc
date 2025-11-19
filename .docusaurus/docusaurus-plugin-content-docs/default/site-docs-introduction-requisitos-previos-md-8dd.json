@@ -1,0 +1,29 @@
+{
+  "id": "introduction/requisitos-previos",
+  "title": "Requisitos previos",
+  "description": "Acceso administrativo inicial",
+  "source": "@site/docs/introduction/requisitos-previos.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/requisitos-previos",
+  "permalink": "/tboh-doc/docs/introduction/requisitos-previos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "sidebar_label": "Requisitos previos",
+    "title": "Requisitos previos",
+    "hide_title": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Casos de uso",
+    "permalink": "/tboh-doc/docs/introduction/casos-de-uso"
+  },
+  "next": {
+    "title": "Instalacion",
+    "permalink": "/tboh-doc/docs/guia-inicio/instalacion"
+  }
+}

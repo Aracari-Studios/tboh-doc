@@ -1,0 +1,25 @@
+{
+  "id": "despliegue/pipeline-ci-cd",
+  "title": "Pipeline CI/CD",
+  "description": "Hola mundo",
+  "source": "@site/docs/despliegue/pipeline-ci-cd.md",
+  "sourceDirName": "despliegue",
+  "slug": "/despliegue/pipeline-ci-cd",
+  "permalink": "/tboh-doc/docs/despliegue/pipeline-ci-cd",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Pipeline CI/CD"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ambientes",
+    "permalink": "/tboh-doc/docs/despliegue/ambientes"
+  },
+  "next": {
+    "title": "Docker y Containerización",
+    "permalink": "/tboh-doc/docs/despliegue/docker"
+  }
+}

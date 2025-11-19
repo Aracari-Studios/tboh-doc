@@ -1,0 +1,25 @@
+{
+  "id": "despliegue/ambientes",
+  "title": "Ambientes",
+  "description": "Hola mundo",
+  "source": "@site/docs/despliegue/ambientes.md",
+  "sourceDirName": "despliegue",
+  "slug": "/despliegue/ambientes",
+  "permalink": "/tboh-doc/docs/despliegue/ambientes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ambientes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Autenticación y Autorización",
+    "permalink": "/tboh-doc/docs/seguridad/autenticacion-autorizacion"
+  },
+  "next": {
+    "title": "Pipeline CI/CD",
+    "permalink": "/tboh-doc/docs/despliegue/pipeline-ci-cd"
+  }
+}

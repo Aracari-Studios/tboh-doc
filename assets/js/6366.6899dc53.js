@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktboh_doc=globalThis.webpackChunktboh_doc||[]).push([[6366],{6366:(c,e,h)=>{h.d(e,{createArchitectureServices:()=>t.S});var t=h(8980);h(7960)}}]);

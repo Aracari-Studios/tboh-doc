@@ -1,0 +1,29 @@
+{
+  "id": "api/endpoints",
+  "title": "Catalogo de Endpoints",
+  "description": "Base URL Bearer  emitido por el endpoint de login.",
+  "source": "@site/docs/api/endpoints.md",
+  "sourceDirName": "api",
+  "slug": "/api/endpoints",
+  "permalink": "/tboh-doc/docs/api/endpoints",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Endpoints",
+    "title": "Catalogo de Endpoints",
+    "hide_title": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Autenticación",
+    "permalink": "/tboh-doc/docs/api/autenticacion"
+  },
+  "next": {
+    "title": "Ejemplos de Uso",
+    "permalink": "/tboh-doc/docs/api/ejemplos-de-uso"
+  }
+}

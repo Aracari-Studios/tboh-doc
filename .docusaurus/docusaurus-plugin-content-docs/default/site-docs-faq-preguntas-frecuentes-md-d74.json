@@ -1,0 +1,25 @@
+{
+  "id": "faq/preguntas-frecuentes",
+  "title": "Preguntas Frecuentes",
+  "description": "Hola mundo",
+  "source": "@site/docs/faq/preguntas-frecuentes.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/preguntas-frecuentes",
+  "permalink": "/tboh-doc/docs/faq/preguntas-frecuentes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Preguntas Frecuentes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Monitoreo y Alertas",
+    "permalink": "/tboh-doc/docs/despliegue/monitoreo-alertas"
+  },
+  "next": {
+    "title": "Versión Actual",
+    "permalink": "/tboh-doc/docs/changelog/version-actual"
+  }
+}

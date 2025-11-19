@@ -1,0 +1,25 @@
+{
+  "id": "api/ejemplos-de-uso",
+  "title": "Ejemplos de Uso",
+  "description": "Hola mundo",
+  "source": "@site/docs/api/ejemplos-de-uso.md",
+  "sourceDirName": "api",
+  "slug": "/api/ejemplos-de-uso",
+  "permalink": "/tboh-doc/docs/api/ejemplos-de-uso",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ejemplos de Uso"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Endpoints",
+    "permalink": "/tboh-doc/docs/api/endpoints"
+  },
+  "next": {
+    "title": "Códigos de Error",
+    "permalink": "/tboh-doc/docs/api/codigos-de-error"
+  }
+}

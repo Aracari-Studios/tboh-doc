@@ -1,0 +1,25 @@
+{
+  "id": "seguridad/mejores-practicas",
+  "title": "Mejores Prácticas",
+  "description": "Hola mundo",
+  "source": "@site/docs/seguridad/mejores-practicas.md",
+  "sourceDirName": "seguridad",
+  "slug": "/seguridad/mejores-practicas",
+  "permalink": "/tboh-doc/docs/seguridad/mejores-practicas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Mejores Prácticas"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Esquema de Base de Datos",
+    "permalink": "/tboh-doc/docs/base-de-datos/esquema"
+  },
+  "next": {
+    "title": "Autenticación y Autorización",
+    "permalink": "/tboh-doc/docs/seguridad/autenticacion-autorizacion"
+  }
+}

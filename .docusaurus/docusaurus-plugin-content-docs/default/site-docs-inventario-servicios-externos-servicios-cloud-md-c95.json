@@ -1,0 +1,25 @@
+{
+  "id": "inventario/servicios-externos/servicios-cloud",
+  "title": "Servicios Cloud",
+  "description": "Hola mundo",
+  "source": "@site/docs/inventario/servicios-externos/servicios-cloud.md",
+  "sourceDirName": "inventario/servicios-externos",
+  "slug": "/inventario/servicios-externos/servicios-cloud",
+  "permalink": "/tboh-doc/docs/inventario/servicios-externos/servicios-cloud",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Servicios Cloud"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "APIs Integradas",
+    "permalink": "/tboh-doc/docs/inventario/servicios-externos/apis-integradas"
+  },
+  "next": {
+    "title": "Gestión de Usuarios",
+    "permalink": "/tboh-doc/docs/guias/gestion-de-usuarios"
+  }
+}

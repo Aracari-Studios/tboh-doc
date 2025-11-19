@@ -1,0 +1,16 @@
+{
+  "id": "mermaid/mermaid-test",
+  "title": "Mermaid Test",
+  "description": "Prueba de Mermaid:",
+  "source": "@site/docs/mermaid/mermaid-test.md",
+  "sourceDirName": "mermaid",
+  "slug": "/mermaid/mermaid-test",
+  "permalink": "/tboh-doc/docs/mermaid/mermaid-test",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Mermaid Test"
+  }
+}

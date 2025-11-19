@@ -1,0 +1,25 @@
+{
+  "id": "arquitectura/estructura-del-proyecto",
+  "title": "Estructura del Proyecto",
+  "description": "Hola mundo",
+  "source": "@site/docs/arquitectura/estructura-del-proyecto.md",
+  "sourceDirName": "arquitectura",
+  "slug": "/arquitectura/estructura-del-proyecto",
+  "permalink": "/tboh-doc/docs/arquitectura/estructura-del-proyecto",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Estructura del Proyecto"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Stack Tecnológico",
+    "permalink": "/tboh-doc/docs/arquitectura/stack-tecnologico"
+  },
+  "next": {
+    "title": "Desarrollo",
+    "permalink": "/tboh-doc/docs/inventario/ambientes/desarrollo"
+  }
+}

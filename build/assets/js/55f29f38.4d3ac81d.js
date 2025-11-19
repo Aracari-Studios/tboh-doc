@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktboh_doc=globalThis.webpackChunktboh_doc||[]).push([[5113],{9930:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/tboh-doc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

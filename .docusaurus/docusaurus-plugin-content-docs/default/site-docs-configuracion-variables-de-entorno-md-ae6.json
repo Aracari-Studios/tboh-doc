@@ -1,0 +1,25 @@
+{
+  "id": "configuracion/variables-de-entorno",
+  "title": "Variables de Entorno",
+  "description": "Hola mundo",
+  "source": "@site/docs/configuracion/variables-de-entorno.md",
+  "sourceDirName": "configuracion",
+  "slug": "/configuracion/variables-de-entorno",
+  "permalink": "/tboh-doc/docs/configuracion/variables-de-entorno",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Variables de Entorno"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Códigos de Error",
+    "permalink": "/tboh-doc/docs/api/codigos-de-error"
+  },
+  "next": {
+    "title": "Configuración de Servicios",
+    "permalink": "/tboh-doc/docs/configuracion/configuracion-de-servicios"
+  }
+}
