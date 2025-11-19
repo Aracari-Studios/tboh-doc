@@ -1,5 +1,0 @@
----
-title: Autenticación
----
-
-Hola mundo

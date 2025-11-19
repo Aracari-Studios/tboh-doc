@@ -1,5 +1,0 @@
----
-title: Producción
----
-
-Hola mundo

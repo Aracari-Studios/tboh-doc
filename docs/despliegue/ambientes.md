@@ -1,5 +1,0 @@
----
-title: Ambientes
----
-
-Hola mundo

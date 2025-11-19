@@ -1,5 +1,0 @@
----
-title: Staging
----
-
-Hola mundo
