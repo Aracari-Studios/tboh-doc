@@ -1,0 +1,25 @@
+{
+  "id": "seguridad/autenticacion-autorizacion",
+  "title": "Autenticación y Autorización",
+  "description": "Hola mundo",
+  "source": "@site/docs/seguridad/autenticacion-autorizacion.md",
+  "sourceDirName": "seguridad",
+  "slug": "/seguridad/autenticacion-autorizacion",
+  "permalink": "/tboh-doc/docs/seguridad/autenticacion-autorizacion",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Autenticación y Autorización"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mejores Prácticas",
+    "permalink": "/tboh-doc/docs/seguridad/mejores-practicas"
+  },
+  "next": {
+    "title": "Ambientes",
+    "permalink": "/tboh-doc/docs/despliegue/ambientes"
+  }
+}

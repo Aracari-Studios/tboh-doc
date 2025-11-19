@@ -1,0 +1,25 @@
+{
+  "id": "configuracion/configuracion-de-servicios",
+  "title": "Configuración de Servicios",
+  "description": "Hola mundo",
+  "source": "@site/docs/configuracion/configuracion-de-servicios.md",
+  "sourceDirName": "configuracion",
+  "slug": "/configuracion/configuracion-de-servicios",
+  "permalink": "/tboh-doc/docs/configuracion/configuracion-de-servicios",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Configuración de Servicios"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Variables de Entorno",
+    "permalink": "/tboh-doc/docs/configuracion/variables-de-entorno"
+  },
+  "next": {
+    "title": "Integraciones Externas",
+    "permalink": "/tboh-doc/docs/configuracion/integraciones-externas"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "changelog/version-actual",
+  "title": "Versión Actual",
+  "description": "Hola mundo",
+  "source": "@site/docs/changelog/version-actual.md",
+  "sourceDirName": "changelog",
+  "slug": "/changelog/version-actual",
+  "permalink": "/tboh-doc/docs/changelog/version-actual",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Versión Actual"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Preguntas Frecuentes",
+    "permalink": "/tboh-doc/docs/faq/preguntas-frecuentes"
+  },
+  "next": {
+    "title": "Involucrados en el proyecto",
+    "permalink": "/tboh-doc/docs/soporte/involucrados"
+  }
+}

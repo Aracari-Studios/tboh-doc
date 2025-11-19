@@ -1,0 +1,25 @@
+{
+  "id": "soporte/involucrados",
+  "title": "Involucrados en el proyecto",
+  "description": "Hola mundo",
+  "source": "@site/docs/soporte/involucrados.md",
+  "sourceDirName": "soporte",
+  "slug": "/soporte/involucrados",
+  "permalink": "/tboh-doc/docs/soporte/involucrados",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Involucrados en el proyecto"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versión Actual",
+    "permalink": "/tboh-doc/docs/changelog/version-actual"
+  },
+  "next": {
+    "title": "Reportar un Bug",
+    "permalink": "/tboh-doc/docs/soporte/reportar-bug"
+  }
+}

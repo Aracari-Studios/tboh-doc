@@ -1,0 +1,25 @@
+{
+  "id": "soporte/reportar-bug",
+  "title": "Reportar un Bug",
+  "description": "Hola mundo",
+  "source": "@site/docs/soporte/reportar-bug.md",
+  "sourceDirName": "soporte",
+  "slug": "/soporte/reportar-bug",
+  "permalink": "/tboh-doc/docs/soporte/reportar-bug",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Reportar un Bug"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Involucrados en el proyecto",
+    "permalink": "/tboh-doc/docs/soporte/involucrados"
+  },
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/tboh-doc/docs/tutorial-basics/create-a-page"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "inventario/servicios-externos/apis-integradas",
+  "title": "APIs Integradas",
+  "description": "Hola mundo",
+  "source": "@site/docs/inventario/servicios-externos/apis-integradas.md",
+  "sourceDirName": "inventario/servicios-externos",
+  "slug": "/inventario/servicios-externos/apis-integradas",
+  "permalink": "/tboh-doc/docs/inventario/servicios-externos/apis-integradas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "APIs Integradas"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Base de Datos",
+    "permalink": "/tboh-doc/docs/inventario/servicios-externos/base-de-datos"
+  },
+  "next": {
+    "title": "Servicios Cloud",
+    "permalink": "/tboh-doc/docs/inventario/servicios-externos/servicios-cloud"
+  }
+}

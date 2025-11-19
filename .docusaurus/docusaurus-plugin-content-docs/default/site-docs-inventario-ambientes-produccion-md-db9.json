@@ -1,0 +1,25 @@
+{
+  "id": "inventario/ambientes/produccion",
+  "title": "Producción",
+  "description": "Hola mundo",
+  "source": "@site/docs/inventario/ambientes/produccion.md",
+  "sourceDirName": "inventario/ambientes",
+  "slug": "/inventario/ambientes/produccion",
+  "permalink": "/tboh-doc/docs/inventario/ambientes/produccion",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Producción"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Staging",
+    "permalink": "/tboh-doc/docs/inventario/ambientes/staging"
+  },
+  "next": {
+    "title": "Base de Datos",
+    "permalink": "/tboh-doc/docs/inventario/servicios-externos/base-de-datos"
+  }
+}

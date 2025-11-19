@@ -1,0 +1,271 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/tboh-doc/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/tboh-doc/docs",
+          "mainDocId": "introduction/bienvenida",
+          "docs": [
+            {
+              "id": "api/autenticacion",
+              "path": "/tboh-doc/docs/api/autenticacion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/codigos-de-error",
+              "path": "/tboh-doc/docs/api/codigos-de-error",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/ejemplos-de-uso",
+              "path": "/tboh-doc/docs/api/ejemplos-de-uso",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/endpoints",
+              "path": "/tboh-doc/docs/api/endpoints",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/introduccion-api",
+              "path": "/tboh-doc/docs/api/introduccion-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "arquitectura/estructura-del-proyecto",
+              "path": "/tboh-doc/docs/arquitectura/estructura-del-proyecto",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "arquitectura/stack-tecnologico",
+              "path": "/tboh-doc/docs/arquitectura/stack-tecnologico",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "arquitectura/vista-general",
+              "path": "/tboh-doc/docs/arquitectura/vista-general",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "base-de-datos/esquema",
+              "path": "/tboh-doc/docs/base-de-datos/esquema",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "changelog/version-actual",
+              "path": "/tboh-doc/docs/changelog/version-actual",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "configuracion/configuracion-de-servicios",
+              "path": "/tboh-doc/docs/configuracion/configuracion-de-servicios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "configuracion/integraciones-externas",
+              "path": "/tboh-doc/docs/configuracion/integraciones-externas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "configuracion/variables-de-entorno",
+              "path": "/tboh-doc/docs/configuracion/variables-de-entorno",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "despliegue/ambientes",
+              "path": "/tboh-doc/docs/despliegue/ambientes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "despliegue/configuracion-de-servidores",
+              "path": "/tboh-doc/docs/despliegue/configuracion-de-servidores",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "despliegue/docker",
+              "path": "/tboh-doc/docs/despliegue/docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "despliegue/monitoreo-alertas",
+              "path": "/tboh-doc/docs/despliegue/monitoreo-alertas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "despliegue/pipeline-ci-cd",
+              "path": "/tboh-doc/docs/despliegue/pipeline-ci-cd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq/preguntas-frecuentes",
+              "path": "/tboh-doc/docs/faq/preguntas-frecuentes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guia-inicio/configuracion-inicial",
+              "path": "/tboh-doc/docs/guia-inicio/configuracion-inicial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guia-inicio/instalacion",
+              "path": "/tboh-doc/docs/guia-inicio/instalacion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guias/gestion-de-campanas",
+              "path": "/tboh-doc/docs/guias/gestion-de-campanas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guias/gestion-de-clientes",
+              "path": "/tboh-doc/docs/guias/gestion-de-clientes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guias/gestion-de-usuarios",
+              "path": "/tboh-doc/docs/guias/gestion-de-usuarios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guias/operaciones-comunes",
+              "path": "/tboh-doc/docs/guias/operaciones-comunes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/tboh-doc/docs/intro"
+            },
+            {
+              "id": "introduction/bienvenida",
+              "path": "/tboh-doc/docs/introduction/bienvenida",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/caracteristicas-principales",
+              "path": "/tboh-doc/docs/introduction/caracteristicas-principales",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/casos-de-uso",
+              "path": "/tboh-doc/docs/introduction/casos-de-uso",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/requisitos-previos",
+              "path": "/tboh-doc/docs/introduction/requisitos-previos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventario/ambientes/desarrollo",
+              "path": "/tboh-doc/docs/inventario/ambientes/desarrollo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventario/ambientes/produccion",
+              "path": "/tboh-doc/docs/inventario/ambientes/produccion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventario/ambientes/staging",
+              "path": "/tboh-doc/docs/inventario/ambientes/staging",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventario/servicios-externos/apis-integradas",
+              "path": "/tboh-doc/docs/inventario/servicios-externos/apis-integradas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventario/servicios-externos/base-de-datos",
+              "path": "/tboh-doc/docs/inventario/servicios-externos/base-de-datos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventario/servicios-externos/servicios-cloud",
+              "path": "/tboh-doc/docs/inventario/servicios-externos/servicios-cloud",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mermaid/mermaid-test",
+              "path": "/tboh-doc/docs/mermaid/mermaid-test"
+            },
+            {
+              "id": "seguridad/autenticacion-autorizacion",
+              "path": "/tboh-doc/docs/seguridad/autenticacion-autorizacion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "seguridad/mejores-practicas",
+              "path": "/tboh-doc/docs/seguridad/mejores-practicas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "soporte/involucrados",
+              "path": "/tboh-doc/docs/soporte/involucrados",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "soporte/reportar-bug",
+              "path": "/tboh-doc/docs/soporte/reportar-bug",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/tboh-doc/docs/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/tboh-doc/docs/tutorial-basics/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/tboh-doc/docs/tutorial-basics/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/tboh-doc/docs/tutorial-basics/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/tboh-doc/docs/tutorial-basics/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/tboh-doc/docs/tutorial-basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/tboh-doc/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/tboh-doc/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/tboh-doc/docs/introduction/bienvenida",
+                "label": "introduction/bienvenida"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "inventario/servicios-externos/base-de-datos",
+  "title": "Base de Datos",
+  "description": "Hola mundo",
+  "source": "@site/docs/inventario/servicios-externos/base-de-datos.md",
+  "sourceDirName": "inventario/servicios-externos",
+  "slug": "/inventario/servicios-externos/base-de-datos",
+  "permalink": "/tboh-doc/docs/inventario/servicios-externos/base-de-datos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Base de Datos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Producción",
+    "permalink": "/tboh-doc/docs/inventario/ambientes/produccion"
+  },
+  "next": {
+    "title": "APIs Integradas",
+    "permalink": "/tboh-doc/docs/inventario/servicios-externos/apis-integradas"
+  }
+}

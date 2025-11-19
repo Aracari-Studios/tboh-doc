@@ -1,0 +1,25 @@
+{
+  "id": "api/codigos-de-error",
+  "title": "Códigos de Error",
+  "description": "Hola mundo",
+  "source": "@site/docs/api/codigos-de-error.md",
+  "sourceDirName": "api",
+  "slug": "/api/codigos-de-error",
+  "permalink": "/tboh-doc/docs/api/codigos-de-error",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Códigos de Error"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ejemplos de Uso",
+    "permalink": "/tboh-doc/docs/api/ejemplos-de-uso"
+  },
+  "next": {
+    "title": "Variables de Entorno",
+    "permalink": "/tboh-doc/docs/configuracion/variables-de-entorno"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "configuracion/integraciones-externas",
+  "title": "Integraciones Externas",
+  "description": "Hola mundo",
+  "source": "@site/docs/configuracion/integraciones-externas.md",
+  "sourceDirName": "configuracion",
+  "slug": "/configuracion/integraciones-externas",
+  "permalink": "/tboh-doc/docs/configuracion/integraciones-externas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Integraciones Externas"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuración de Servicios",
+    "permalink": "/tboh-doc/docs/configuracion/configuracion-de-servicios"
+  },
+  "next": {
+    "title": "Esquema de Base de Datos",
+    "permalink": "/tboh-doc/docs/base-de-datos/esquema"
+  }
+}

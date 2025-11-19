@@ -1,0 +1,25 @@
+{
+  "id": "guias/gestion-de-clientes",
+  "title": "Gestión de Clientes",
+  "description": "Hola mundo",
+  "source": "@site/docs/guias/gestion-de-clientes.md",
+  "sourceDirName": "guias",
+  "slug": "/guias/gestion-de-clientes",
+  "permalink": "/tboh-doc/docs/guias/gestion-de-clientes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Gestión de Clientes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gestión de Campañas",
+    "permalink": "/tboh-doc/docs/guias/gestion-de-campanas"
+  },
+  "next": {
+    "title": "Operaciones Comunes",
+    "permalink": "/tboh-doc/docs/guias/operaciones-comunes"
+  }
+}

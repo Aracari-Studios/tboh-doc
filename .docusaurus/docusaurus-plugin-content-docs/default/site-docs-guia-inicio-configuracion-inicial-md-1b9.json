@@ -1,0 +1,25 @@
+{
+  "id": "guia-inicio/configuracion-inicial",
+  "title": "Configuración Inicial",
+  "description": "Hola mundo",
+  "source": "@site/docs/guia-inicio/configuracion-inicial.md",
+  "sourceDirName": "guia-inicio",
+  "slug": "/guia-inicio/configuracion-inicial",
+  "permalink": "/tboh-doc/docs/guia-inicio/configuracion-inicial",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Configuración Inicial"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Instalacion",
+    "permalink": "/tboh-doc/docs/guia-inicio/instalacion"
+  },
+  "next": {
+    "title": "Vista General",
+    "permalink": "/tboh-doc/docs/arquitectura/vista-general"
+  }
+}

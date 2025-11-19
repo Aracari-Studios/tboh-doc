@@ -1,0 +1,25 @@
+{
+  "id": "despliegue/docker",
+  "title": "Docker y Containerización",
+  "description": "Hola mundo",
+  "source": "@site/docs/despliegue/docker.md",
+  "sourceDirName": "despliegue",
+  "slug": "/despliegue/docker",
+  "permalink": "/tboh-doc/docs/despliegue/docker",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Docker y Containerización"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pipeline CI/CD",
+    "permalink": "/tboh-doc/docs/despliegue/pipeline-ci-cd"
+  },
+  "next": {
+    "title": "Configuración de Servidores",
+    "permalink": "/tboh-doc/docs/despliegue/configuracion-de-servidores"
+  }
+}

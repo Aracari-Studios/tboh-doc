@@ -1,0 +1,29 @@
+{
+  "id": "introduction/casos-de-uso",
+  "title": "Casos de uso",
+  "description": "Caso 1. Inicio de sesion seguro",
+  "source": "@site/docs/introduction/casos-de-uso.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/casos-de-uso",
+  "permalink": "/tboh-doc/docs/introduction/casos-de-uso",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Casos de uso",
+    "title": "Casos de uso",
+    "hide_title": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Características principales",
+    "permalink": "/tboh-doc/docs/introduction/caracteristicas-principales"
+  },
+  "next": {
+    "title": "Requisitos previos",
+    "permalink": "/tboh-doc/docs/introduction/requisitos-previos"
+  }
+}

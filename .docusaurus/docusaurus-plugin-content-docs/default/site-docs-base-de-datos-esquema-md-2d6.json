@@ -1,0 +1,25 @@
+{
+  "id": "base-de-datos/esquema",
+  "title": "Esquema de Base de Datos",
+  "description": "Hola mundo",
+  "source": "@site/docs/base-de-datos/esquema.md",
+  "sourceDirName": "base-de-datos",
+  "slug": "/base-de-datos/esquema",
+  "permalink": "/tboh-doc/docs/base-de-datos/esquema",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Esquema de Base de Datos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integraciones Externas",
+    "permalink": "/tboh-doc/docs/configuracion/integraciones-externas"
+  },
+  "next": {
+    "title": "Mejores Prácticas",
+    "permalink": "/tboh-doc/docs/seguridad/mejores-practicas"
+  }
+}

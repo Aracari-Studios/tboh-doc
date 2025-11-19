@@ -1,0 +1,25 @@
+{
+  "id": "despliegue/configuracion-de-servidores",
+  "title": "Configuración de Servidores",
+  "description": "Hola mundo",
+  "source": "@site/docs/despliegue/configuracion-de-servidores.md",
+  "sourceDirName": "despliegue",
+  "slug": "/despliegue/configuracion-de-servidores",
+  "permalink": "/tboh-doc/docs/despliegue/configuracion-de-servidores",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Configuración de Servidores"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docker y Containerización",
+    "permalink": "/tboh-doc/docs/despliegue/docker"
+  },
+  "next": {
+    "title": "Monitoreo y Alertas",
+    "permalink": "/tboh-doc/docs/despliegue/monitoreo-alertas"
+  }
+}

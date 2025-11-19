@@ -1,0 +1,25 @@
+{
+  "id": "guias/gestion-de-campanas",
+  "title": "Gestión de Campañas",
+  "description": "Hola mundo",
+  "source": "@site/docs/guias/gestion-de-campanas.md",
+  "sourceDirName": "guias",
+  "slug": "/guias/gestion-de-campanas",
+  "permalink": "/tboh-doc/docs/guias/gestion-de-campanas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Gestión de Campañas"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gestión de Usuarios",
+    "permalink": "/tboh-doc/docs/guias/gestion-de-usuarios"
+  },
+  "next": {
+    "title": "Gestión de Clientes",
+    "permalink": "/tboh-doc/docs/guias/gestion-de-clientes"
+  }
+}

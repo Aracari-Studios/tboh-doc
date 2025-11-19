@@ -1,0 +1,25 @@
+{
+  "id": "api/autenticacion",
+  "title": "Autenticación",
+  "description": "Hola mundo",
+  "source": "@site/docs/api/autenticacion.md",
+  "sourceDirName": "api",
+  "slug": "/api/autenticacion",
+  "permalink": "/tboh-doc/docs/api/autenticacion",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Autenticación"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducción a la API",
+    "permalink": "/tboh-doc/docs/api/introduccion-api"
+  },
+  "next": {
+    "title": "Endpoints",
+    "permalink": "/tboh-doc/docs/api/endpoints"
+  }
+}

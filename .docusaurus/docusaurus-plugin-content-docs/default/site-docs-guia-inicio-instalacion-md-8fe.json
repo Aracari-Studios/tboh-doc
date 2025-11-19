@@ -1,0 +1,29 @@
+{
+  "id": "guia-inicio/instalacion",
+  "title": "Instalacion",
+  "description": "Backend (.NET + SQL Server)",
+  "source": "@site/docs/guia-inicio/instalacion.md",
+  "sourceDirName": "guia-inicio",
+  "slug": "/guia-inicio/instalacion",
+  "permalink": "/tboh-doc/docs/guia-inicio/instalacion",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Instalacion",
+    "title": "Instalacion",
+    "hide_title": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Requisitos previos",
+    "permalink": "/tboh-doc/docs/introduction/requisitos-previos"
+  },
+  "next": {
+    "title": "Configuración Inicial",
+    "permalink": "/tboh-doc/docs/guia-inicio/configuracion-inicial"
+  }
+}

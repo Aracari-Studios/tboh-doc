@@ -1,0 +1,25 @@
+{
+  "id": "inventario/ambientes/staging",
+  "title": "Staging",
+  "description": "Hola mundo",
+  "source": "@site/docs/inventario/ambientes/staging.md",
+  "sourceDirName": "inventario/ambientes",
+  "slug": "/inventario/ambientes/staging",
+  "permalink": "/tboh-doc/docs/inventario/ambientes/staging",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Staging"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Desarrollo",
+    "permalink": "/tboh-doc/docs/inventario/ambientes/desarrollo"
+  },
+  "next": {
+    "title": "Producción",
+    "permalink": "/tboh-doc/docs/inventario/ambientes/produccion"
+  }
+}
